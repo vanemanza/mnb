@@ -234,3 +234,4 @@ cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,django,visualstudiocode
 
+local_settings.py

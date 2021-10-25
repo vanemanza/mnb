@@ -21,6 +21,7 @@ h1 a, h2 a {
 
 .content {
     margin-left: 40px;
+    text-align: justify;
 }
 
 h1, h2, h3, h4 {
@@ -48,6 +49,7 @@ h1, h2, h3, h4 {
 
 .post {
     margin-bottom: 70px;
+    text-align: justify;
 }
 
 .post h2 a, .post h2 a:visited {
